@@ -9,11 +9,8 @@ Projeto realizado durante o evento da MapaDev Week. Realizadas apenas umas modif
 - CSS
 - JS
 
-# Screenshots
 
-### Desktop
-![](./design/desktop.png)
 
-### Mobile
 
-![](./design/mobile.png)
+
+
